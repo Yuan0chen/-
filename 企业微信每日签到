@@ -1,4 +1,4 @@
 from pyautogui import*
 im1=screenshot()
-im.save('screenshot。png')
+im.save('screenshot.png')
 
